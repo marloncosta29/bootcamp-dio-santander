@@ -1,0 +1,35 @@
+Checklint para gerarum artigocom qualidade
+
+- [x]  Definir o assunto
+- [x]  Titulo chamativo: headine
+- [x]  Image de capa chamativa
+- [x]  Blocos por artigo
+- [x]  Postar um artigo com um call to action
+
+#Assunto
+
+Oque é e como usar CSP(Contenty Security Policy) no react
+
+#Titulo
+
+## Blocos (prompt)
+
+Comporte-se como em escritor de artigos tech de seguraça e escreva o artigo atendendo as regras abaixo.
+
+{REGRAS}
+
+- No maximo 5 linhas por bloco  de explicação
+- use titulos sugestivos para cada bloco, levando em consideração o conteudo do bloco a ser explicado.
+- Me explique de maneira informal, como se eu fosse uma criança de 10 anos de idade
+- Os blocos que serão criado estão abaixo:
+- A importancia da segurança em aplicaçoes WEB
+- Oque é CSP - Content Policity Security
+- Explique cada politica do CSP que estão dentro de content dando uma explicação previa de oque são essas politicas
+- Como usar CSP em um projeto React/Node
+    - Cite blibliotecas para o uso de CSP e de uma explicação para cada citada
+    - Hemet no Nodejs
+    - Metatag no react
+    - DOMPurify no react para sanitização dos dados
+    - Cite exemplos de código levando em consideração o frontend e backend
+- Faça um call to action para minhas redes socais
+- Coloque 3 hashetags que façam sentidos
