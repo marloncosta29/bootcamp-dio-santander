@@ -1,0 +1,28 @@
+## Titulo
+
+    crie um 10 titulos de um ebook de ReactJs, o nicho do ebbok é de tecnologia com enfase em react para iniciantes, o titulo deve ser épico e curto e tenha uma tematica mais nerd
+
+    misture esses 2 titulo e gere outros titulos épicos
+
+    React para Noobs: Desperte o Programador Interior
+    Missão React: Primeiros Passos no Universo Frontend
+
+# titulo escolhido
+    React para Noobs: Primeira Missão no Universo Frontend
+
+## Conteudo
+
+    Faça um texto para ebook, com foco em reactjs, explicando oque é o react, 
+    como ele surgiu, a importancia dele para o frontend
+    fale como criar um projeto em react, oque é necessario para criar o projeto
+    fale sobre componentes, estado no react e estilização, de ememplos de código.
+
+    {REGRAS}
+    > Explique sempre de uma maneira simples
+    > use uma linguagem mais nerd
+    > use um tom como se estivesse em uma aventura
+    > Deixe o texto enchuto
+    > Sempre traga exemplos de codigo em contexto reais
+    > Crie um titulo sugestivo para cada bloco
+    > Separe o conteudo por capitulos
+    
