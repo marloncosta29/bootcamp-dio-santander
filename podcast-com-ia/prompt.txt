@@ -1,0 +1,57 @@
+Prompts para a geração do conteudo.
+
+## TITULO
+
+Voce é um roteirista de um podcast e vamos criar um podcast de tecnologia, focado em frontend e eu gostaria de 5 sugestões de nomes criativos para um podcast de front end e que tenha alguns trocadilhos nerd no nom
+
+{REGRAS}
+
+- O nome deve ser enxuto, um nome e um subtitulo
+- O nome tenha algum trocadilho nerd com nome de franquias conhecidas como senhor dos aneis, the boys, games
+- O nome deve conter palavra forte que remete o frontend
+
+{REGRAS NEGATIVAS}
+
+- Não deve ter palavras em ingles no nome e subtitulo
+- Não deve mencionar a palavra front end
+
+Titulo escolhido
+
+- **Guardiões do DOM: A Revolução do Código**
+
+
+## CAPA
+
+a poscaster knight guy bald hair smiling with a microphone, side by side universe sky, camera settings  f/8, 1/100s, ISO 100, complex lighting, backlighthing, hyper realistic, ultra detailed —ar 1:1 —v 5.2
+
+*Não deu para gerar o midjourney é pago
+
+
+## ROTEIRO DO PODCAST
+
+Você é um roteirista de um podcast e vamos criar um roteiro de um podcast de tecnologia, focado em frontend cujo o nome é “**Guardiões do DOM: A Revolução do Código” e tem foco em frontend, com publico alvo de iniciantes em frontend**
+
+o formato do roteiro deve ser:
+
+{INTRODUÇÃO}
+
+{CURIOSIDADE 1}
+
+{CURIOSIDADE 2}
+
+{FINALIZAÇÃO}
+
+{REGRAS}
+
+- no bloco {INTRODUÇÃO} substitua por uma introdução iguais as instroduçoes dos videos do canal brasil js.
+- no bloco {CURIOSIDADE 1} subustitua por uma curiosidade do react
+- no bloco {CURIOSIDADE 2} subustitua por ferramentas para frontend react
+- no bloco {FINALIZAÇÃO} substitua por uma despedida coll com o final “Eu sou o Marlão e esse foi para os guardiões do DOM dessa semana”
+- use termos de facil entendimento
+- o podcast deve ser apresentado por apenas uma pessoa
+- o podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não usar muitos termos técnicos
+- O podcast nao deve ter mais que 5 minutos
